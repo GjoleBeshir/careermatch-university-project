@@ -1,0 +1,86 @@
+candidate_id,name,email,study_area,year_of_study,latitude,longitude,skills,interests,preferred_employment_type,preferred_work_mode,available_from,available_to,min_salary
+1,Ana Petrova,student001@example.test,Computer Science,2,42.02905829032597,21.40709738291774,"FastAPI, Java, Python, Git","Software Development, Business",Internship,Hybrid,09:00,17:00,17500
+2,Marko Ivanov,student002@example.test,Computer Science,3,41.081469547332055,20.79606170489093,"Statistics, Power BI, Tableau, SQL","Data Analytics, Design",Full-time,Remote,09:00,17:00,20000
+3,Elena Stojanova,student003@example.test,Marketing,4,41.041338255697575,21.305095798134428,"Copywriting, SEO, Social Media, Communication","Marketing, Finance",Part-time,On-site,09:00,17:00,22500
+4,Stefan Trajkov,student004@example.test,Economics,1,41.9714895764671,20.998360844792213,"Communication, Excel, Research, CRM","Business, Human Resources",Internship,Hybrid,09:00,17:00,25000
+5,Mila Nikolova,student005@example.test,Design,2,41.31294020026378,21.519613108346945,"Photoshop, Figma, Adobe Illustrator, UX Research","Design, Customer Support",Full-time,Remote,09:00,17:00,27500
+6,Petar Angelov,student006@example.test,Economics,3,41.167044870340206,20.698519499813667,"Excel, Budgeting, Accounting, Financial Analysis","Finance, Engineering",Part-time,On-site,09:00,17:00,30000
+7,Ivana Risteska,student007@example.test,Business,4,42.09523927774734,21.716257704758238,"Interviewing, Excel, Communication, Organization","Human Resources, Project Management",Internship,Hybrid,09:00,17:00,32500
+8,Filip Popov,student008@example.test,Business,1,41.760489926729,22.215721791999727,"Communication, Problem Solving, English, CRM","Customer Support, Sales",Full-time,Remote,09:00,17:00,35000
+9,Sara Kostova,student009@example.test,Engineering,2,42.005178282384456,21.441103538489124,"MATLAB, Problem Solving, AutoCAD, SolidWorks","Engineering, Research",Part-time,On-site,09:00,17:00,37500
+10,Nikola Mitev,student010@example.test,Business,3,41.10124657029228,20.831005527234698,"Trello, Agile, Planning, Communication","Project Management, Software Development",Internship,Hybrid,09:00,17:00,40000
+11,Jovana Petrova,student011@example.test,Business,4,41.06428771609765,21.3200488571721,"CRM, Negotiation, Presentation, Communication","Sales, Data Analytics",Full-time,Remote,09:00,17:00,42500
+12,Martin Ivanov,student012@example.test,Business,1,41.97747192547605,20.982816591967858,"Writing, Statistics, Data Collection, Research","Research, Marketing",Part-time,On-site,09:00,17:00,15000
+13,Teodora Stojanova,student013@example.test,Computer Science,2,41.343924795438134,21.53317801622379,"JavaScript, SQL, FastAPI, React","Software Development, Business",Internship,Hybrid,09:00,17:00,17500
+14,David Trajkov,student014@example.test,Computer Science,3,41.18722874246303,20.672537437556482,"Excel, Tableau, SQL, Statistics","Data Analytics, Design",Full-time,Remote,09:00,17:00,20000
+15,Marija Nikolova,student015@example.test,Marketing,4,42.168082964764196,21.710248867020592,"Social Media, SEO, Excel, Copywriting","Marketing, Finance",Part-time,On-site,09:00,17:00,22500
+16,Luka Angelov,student016@example.test,Economics,1,41.77456845751212,22.232148618717062,"Research, Excel, Presentation, Communication","Business, Human Resources",Internship,Hybrid,09:00,17:00,25000
+17,Ema Risteska,student017@example.test,Design,2,41.96898931708343,21.396130068958005,"Figma, Prototyping, UX Research, Adobe Illustrator","Design, Customer Support",Full-time,Remote,09:00,17:00,27500
+18,Ana Popov,student018@example.test,Economics,3,41.13153201878074,20.79395301364299,"Accounting, Financial Analysis, Budgeting, Excel","Finance, Engineering",Part-time,On-site,09:00,17:00,30000
+19,Marko Kostova,student019@example.test,Business,4,41.04179147992134,21.354072891314463,"Organization, Interviewing, Communication, Recruiting","Human Resources, Project Management",Internship,Hybrid,09:00,17:00,32500
+20,Elena Mitev,student020@example.test,Business,1,41.978251651685476,20.941218237177843,"CRM, English, Excel, Problem Solving","Customer Support, Sales",Full-time,Remote,09:00,17:00,35000
+21,Stefan Petrova,student021@example.test,Engineering,2,41.3449096613835,21.51700883737463,"SolidWorks, AutoCAD, Problem Solving, Technical Drawing","Engineering, Research",Part-time,On-site,09:00,17:00,37500
+22,Mila Ivanov,student022@example.test,Business,3,41.20616341793108,20.71414578247461,"Trello, Planning, Excel, Communication","Project Management, Software Development",Internship,Hybrid,09:00,17:00,40000
+23,Petar Stojanova,student023@example.test,Business,4,42.1037682023859,21.750173860591026,"Negotiation, Presentation, Communication, CRM","Sales, Data Analytics",Full-time,Remote,09:00,17:00,42500
+24,Ivana Trajkov,student024@example.test,Business,1,41.7436757447729,22.188238585284015,"Data Collection, Python, Writing, Statistics","Research, Marketing",Part-time,On-site,09:00,17:00,15000
+25,Filip Nikolova,student025@example.test,Computer Science,2,42.03752679079653,21.415468563824664,"Java, Git, FastAPI, SQL","Software Development, Business",Internship,Hybrid,09:00,17:00,17500
+26,Sara Angelov,student026@example.test,Computer Science,3,41.088956171192095,20.838064686827543,"SQL, Python, Tableau, Excel","Data Analytics, Design",Full-time,Remote,09:00,17:00,20000
+27,Nikola Risteska,student027@example.test,Marketing,4,41.07000916866396,21.295875668137267,"Social Media, Excel, Copywriting, SEO","Marketing, Finance",Part-time,On-site,09:00,17:00,22500
+28,Jovana Popov,student028@example.test,Economics,1,42.03739864988227,20.963478278831307,"CRM, Communication, Presentation, Research","Business, Human Resources",Internship,Hybrid,09:00,17:00,25000
+29,Martin Kostova,student029@example.test,Design,2,41.3116708777504,21.523101097141296,"Photoshop, Prototyping, UX Research, Adobe Illustrator","Design, Customer Support",Full-time,Remote,09:00,17:00,27500
+30,Teodora Mitev,student030@example.test,Economics,3,41.20697371603187,20.700776271008184,"Financial Analysis, Excel, Accounting, Power BI","Finance, Engineering",Part-time,On-site,09:00,17:00,30000
+31,David Petrova,student031@example.test,Business,4,42.15577622926936,21.720931167410292,"Interviewing, Excel, Recruiting, Communication","Human Resources, Project Management",Internship,Hybrid,09:00,17:00,32500
+32,Marija Ivanov,student032@example.test,Business,1,41.77817453454905,22.183235530504152,"CRM, Excel, English, Problem Solving","Customer Support, Sales",Full-time,Remote,09:00,17:00,35000
+33,Luka Stojanova,student033@example.test,Engineering,2,41.97748948922848,21.432795429463685,"MATLAB, Technical Drawing, Problem Solving, SolidWorks","Engineering, Research",Part-time,On-site,09:00,17:00,37500
+34,Ema Trajkov,student034@example.test,Business,3,41.148108341112895,20.776479627282505,"Excel, Planning, Agile, Communication","Project Management, Software Development",Internship,Hybrid,09:00,17:00,40000
+35,Ana Nikolova,student035@example.test,Business,4,41.048934621103236,21.31272744261323,"Communication, CRM, Excel, Negotiation","Sales, Data Analytics",Full-time,Remote,09:00,17:00,42500
+36,Marko Angelov,student036@example.test,Business,1,41.99077867204536,20.96959425598528,"Python, Writing, Statistics, Research","Research, Marketing",Part-time,On-site,09:00,17:00,15000
+37,Elena Risteska,student037@example.test,Computer Science,2,41.32695973015487,21.591551521129873,"JavaScript, React, FastAPI, SQL","Software Development, Business",Internship,Hybrid,09:00,17:00,17500
+38,Stefan Popov,student038@example.test,Computer Science,3,41.16518658801201,20.66602119664905,"Power BI, Python, Tableau, Excel","Data Analytics, Design",Full-time,Remote,09:00,17:00,20000
+39,Mila Kostova,student039@example.test,Marketing,4,42.1333122078261,21.68180938057098,"Excel, Copywriting, Social Media, SEO","Marketing, Finance",Part-time,On-site,09:00,17:00,22500
+40,Petar Mitev,student040@example.test,Economics,1,41.76451592153068,22.185929035527703,"CRM, Excel, Communication, Presentation","Business, Human Resources",Internship,Hybrid,09:00,17:00,25000
+41,Ivana Petrova,student041@example.test,Design,2,42.011496644308714,21.438543421654455,"UX Research, Figma, Photoshop, Adobe Illustrator","Design, Customer Support",Full-time,Remote,09:00,17:00,27500
+42,Filip Ivanov,student042@example.test,Economics,3,41.08395618699305,20.763345759938186,"Excel, Financial Analysis, Budgeting, Power BI","Finance, Engineering",Part-time,On-site,09:00,17:00,30000
+43,Sara Stojanova,student043@example.test,Business,4,41.06130074422953,21.327621927464556,"Excel, Recruiting, Communication, Interviewing","Human Resources, Project Management",Internship,Hybrid,09:00,17:00,32500
+44,Nikola Trajkov,student044@example.test,Business,1,42.01231994421068,20.940999975279663,"English, Problem Solving, Communication, CRM","Customer Support, Sales",Full-time,Remote,09:00,17:00,35000
+45,Jovana Nikolova,student045@example.test,Engineering,2,41.36719548735441,21.526718979560563,"AutoCAD, Technical Drawing, SolidWorks, Problem Solving","Engineering, Research",Part-time,On-site,09:00,17:00,37500
+46,Martin Angelov,student046@example.test,Business,3,41.195543988354714,20.642120498053295,"Excel, Agile, Trello, Communication","Project Management, Software Development",Internship,Hybrid,09:00,17:00,40000
+47,Teodora Risteska,student047@example.test,Business,4,42.148697443928754,21.724112171739833,"Communication, CRM, Negotiation, Excel","Sales, Data Analytics",Full-time,Remote,09:00,17:00,42500
+48,David Popov,student048@example.test,Business,1,41.737158106521875,22.195891069937726,"Data Collection, Research, Statistics, Writing","Research, Marketing",Part-time,On-site,09:00,17:00,15000
+49,Marija Kostova,student049@example.test,Computer Science,2,41.96620372360154,21.39162680835838,"Git, SQL, React, JavaScript","Software Development, Business",Internship,Hybrid,09:00,17:00,17500
+50,Luka Mitev,student050@example.test,Computer Science,3,41.10054917680602,20.83903440845334,"Excel, SQL, Statistics, Tableau","Data Analytics, Design",Full-time,Remote,09:00,17:00,20000
+51,Ema Petrova,student051@example.test,Marketing,4,40.99998382254356,21.31026193063022,"Copywriting, SEO, Excel, Social Media","Marketing, Finance",Part-time,On-site,09:00,17:00,22500
+52,Ana Ivanov,student052@example.test,Economics,1,41.99112092950902,20.969712440249367,"Excel, Research, CRM, Communication","Business, Human Resources",Internship,Hybrid,09:00,17:00,25000
+53,Marko Stojanova,student053@example.test,Design,2,41.35603674847271,21.526605668331293,"Figma, UX Research, Prototyping, Adobe Illustrator","Design, Customer Support",Full-time,Remote,09:00,17:00,27500
+54,Elena Trajkov,student054@example.test,Economics,3,41.20340301203656,20.69961926606188,"Power BI, Accounting, Financial Analysis, Budgeting","Finance, Engineering",Part-time,On-site,09:00,17:00,30000
+55,Stefan Nikolova,student055@example.test,Business,4,42.10268424909037,21.739843918672417,"Communication, Organization, Interviewing, Excel","Human Resources, Project Management",Internship,Hybrid,09:00,17:00,32500
+56,Mila Angelov,student056@example.test,Business,1,41.76625607354006,22.22171159299483,"Communication, Excel, English, CRM","Customer Support, Sales",Full-time,Remote,09:00,17:00,35000
+57,Petar Risteska,student057@example.test,Engineering,2,41.995943063831035,21.429796819889045,"AutoCAD, SolidWorks, Technical Drawing, Problem Solving","Engineering, Research",Part-time,On-site,09:00,17:00,37500
+58,Ivana Popov,student058@example.test,Business,3,41.15463560677917,20.83033564817233,"Trello, Communication, Agile, Planning","Project Management, Software Development",Internship,Hybrid,09:00,17:00,40000
+59,Filip Kostova,student059@example.test,Business,4,41.051617719251254,21.320924946637714,"Communication, CRM, Negotiation, Presentation","Sales, Data Analytics",Full-time,Remote,09:00,17:00,42500
+60,Sara Mitev,student060@example.test,Business,1,41.983241228593464,20.993240745452056,"Python, Research, Statistics, Writing","Research, Marketing",Part-time,On-site,09:00,17:00,15000
+61,Nikola Petrova,student061@example.test,Computer Science,2,41.32921310353413,21.56405315952863,"FastAPI, React, JavaScript, Java","Software Development, Business",Internship,Hybrid,09:00,17:00,17500
+62,Jovana Ivanov,student062@example.test,Computer Science,3,41.19877971659401,20.652398825670122,"Tableau, Power BI, Statistics, Python","Data Analytics, Design",Full-time,Remote,09:00,17:00,20000
+63,Martin Stojanova,student063@example.test,Marketing,4,42.15284826655381,21.715523632382745,"Copywriting, Social Media, SEO, Excel","Marketing, Finance",Part-time,On-site,09:00,17:00,22500
+64,Teodora Trajkov,student064@example.test,Economics,1,41.76668236513172,22.23492973853146,"Presentation, CRM, Excel, Communication","Business, Human Resources",Internship,Hybrid,09:00,17:00,25000
+65,David Nikolova,student065@example.test,Design,2,42.023044112905154,21.416371379761927,"Prototyping, Photoshop, UX Research, Figma","Design, Customer Support",Full-time,Remote,09:00,17:00,27500
+66,Marija Angelov,student066@example.test,Economics,3,41.15649055560661,20.799389318107682,"Financial Analysis, Accounting, Power BI, Budgeting","Finance, Engineering",Part-time,On-site,09:00,17:00,30000
+67,Luka Risteska,student067@example.test,Business,4,41.042827275767365,21.305606291318945,"Organization, Recruiting, Communication, Excel","Human Resources, Project Management",Internship,Hybrid,09:00,17:00,32500
+68,Ema Popov,student068@example.test,Business,1,42.03469798636568,20.964993233227688,"CRM, Communication, Problem Solving, Excel","Customer Support, Sales",Full-time,Remote,09:00,17:00,35000
+69,Ana Kostova,student069@example.test,Engineering,2,41.3582696468113,21.524011308702253,"MATLAB, Technical Drawing, AutoCAD, SolidWorks","Engineering, Research",Part-time,On-site,09:00,17:00,37500
+70,Marko Mitev,student070@example.test,Business,3,41.187192158085935,20.664766768242266,"Communication, Planning, Trello, Agile","Project Management, Software Development",Internship,Hybrid,09:00,17:00,40000
+71,Elena Petrova,student071@example.test,Business,4,42.125649199406965,21.73567219867557,"Negotiation, CRM, Communication, Excel","Sales, Data Analytics",Full-time,Remote,09:00,17:00,42500
+72,Stefan Ivanov,student072@example.test,Business,1,41.785553860681595,22.2207822940285,"Writing, Python, Research, Statistics","Research, Marketing",Part-time,On-site,09:00,17:00,15000
+73,Mila Stojanova,student073@example.test,Computer Science,2,41.96789895879674,21.405413626419495,"JavaScript, SQL, Java, Python","Software Development, Business",Internship,Hybrid,09:00,17:00,17500
+74,Petar Trajkov,student074@example.test,Computer Science,3,41.09520865319957,20.778541814765664,"Python, Power BI, Excel, Tableau","Data Analytics, Design",Full-time,Remote,09:00,17:00,20000
+75,Ivana Nikolova,student075@example.test,Marketing,4,41.01407512612663,21.33814780299447,"Communication, Social Media, Excel, Copywriting","Marketing, Finance",Part-time,On-site,09:00,17:00,22500
+76,Filip Angelov,student076@example.test,Economics,1,42.02594436369786,21.00830526564182,"Excel, Presentation, CRM, Communication","Business, Human Resources",Internship,Hybrid,09:00,17:00,25000
+77,Sara Risteska,student077@example.test,Design,2,41.30713239861627,21.52308013328166,"Prototyping, UX Research, Adobe Illustrator, Figma","Design, Customer Support",Full-time,Remote,09:00,17:00,27500
+78,Nikola Popov,student078@example.test,Economics,3,41.14225059037379,20.691513665975467,"Accounting, Budgeting, Financial Analysis, Power BI","Finance, Engineering",Part-time,On-site,09:00,17:00,30000
+79,Jovana Kostova,student079@example.test,Business,4,42.17100123491871,21.718517936977683,"Recruiting, Organization, Communication, Interviewing","Human Resources, Project Management",Internship,Hybrid,09:00,17:00,32500
+80,Martin Mitev,student080@example.test,Business,1,41.738165107029474,22.191332227685795,"Problem Solving, Excel, English, CRM","Customer Support, Sales",Full-time,Remote,09:00,17:00,35000
+81,Teodora Petrova,student081@example.test,Engineering,2,41.978500717392315,21.390200210580982,"MATLAB, AutoCAD, Problem Solving, Technical Drawing","Engineering, Research",Part-time,On-site,09:00,17:00,37500
+82,David Ivanov,student082@example.test,Business,3,41.08312911118528,20.81212832154779,"Agile, Trello, Communication, Excel","Project Management, Software Development",Internship,Hybrid,09:00,17:00,40000
+83,Marija Stojanova,student083@example.test,Business,4,41.01845821403954,21.323174198175437,"Excel, Presentation, Communication, CRM","Sales, Data Analytics",Full-time,Remote,09:00,17:00,42500
+84,Luka Trajkov,student084@example.test,Business,1,42.02087890067758,20.95175959607257,"Python, Data Collection, Statistics, Writing","Research, Marketing",Part-time,On-site,09:00,17:00,15000
+85,Ema Nikolova,student085@example.test,Computer Science,2,41.34764494826089,21.58109834979121,"JavaScript, Python, SQL, Java","Software Development, Business",Internship,Hybrid,09:00,17:00,17500
