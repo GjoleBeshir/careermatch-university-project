@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="CareerMatch – personalized internships and entry-level job opportunities.">
+<title>CareerMatch — Find your next move</title>
+<link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+<div class="shell">
+  <aside class="sidebar">
+    <div class="brand"><span class="brand-icon">✳</span><span>career<span class="brand-light">match</span><small>STUDENT OPPORTUNITIES</small></span></div>
+    <div class="side-label">WORKSPACE</div>
+    <div class="side-item selected">◫ <span>Discover jobs</span></div>
+    <a class="side-item" href="/docs" target="_blank" rel="noopener">⌘ <span>API documentation ↗</span></a>
+    <div class="side-label second">YOUR PROFILE</div>
+    <label class="input-label" for="candidate">Viewing recommendations for</label>
+    <select id="candidate"><option value="">Loading candidates...</option></select>
+    <div id="profile-card" class="profile-card"><div class="skeleton" style="height:54px"></div></div>
+    <div class="side-bottom"><span class="status-dot"></span> <span id="connection-status">Connecting to CareerMatch API…</span><br><span class="muted">FastAPI · PostgreSQL · Rules-based</span></div>
+  </aside>
+  <main class="main">
+    <div class="topbar"><span>Explore <span class="top-arrow">/</span> <b>For you</b></span><div class="top-right"><span class="today-pill">✦ Personalized matching</span><span class="avatar">CM</span></div></div>
+    <div class="content">
+      <div class="hero"><div class="hero-copy"><span class="eyebrow">YOUR CAREER STARTS HERE</span><h1>The right opportunity.<br><em>Right for you.</em></h1><p>Discover internships and graduate jobs ranked by what actually matters — your skills, goals, and preferences.</p><a href="#results" class="hero-button">Explore matches <span>↗</span></a></div><div class="hero-art"><div class="orbit orbit1"></div><div class="orbit orbit2"></div><div class="hero-star">✳</div><div class="float-card"><span class="dot-green"></span> A great match for you <b>96%</b></div></div></div>
+      <div class="section-intro" id="results"><div><span class="eyebrow dark">CURATED FOR YOUR PROFILE</span><h2>Opportunities worth exploring<span class="accent-dot">.</span></h2><p>Clear scores, real reasons — zero guesswork.</p></div><div class="matches-badge"><strong id="count">—</strong><span>available matches</span></div></div>
+      <div class="controls">
+        <div class="filter-field"><label for="category">FIELD</label><select id="category"><option value="">All categories</option></select></div>
+        <div class="filter-field"><label for="employment">OPPORTUNITY TYPE</label><select id="employment"><option value="">All types</option><option>Internship</option><option>Full-time</option><option>Part-time</option></select></div>
+        <div class="filter-field"><label for="remote">WORK SETUP</label><select id="remote"><option value="">Any work mode</option><option value="remote">Remote only</option><option value="hybrid">Hybrid only</option><option value="on-site">On-site only</option></select></div>
+        <button class="clear-btn" id="reset">Clear filters ↺</button>
+      </div>
+      <div class="results-header"><span>BEST MATCHES <span class="subtle" id="visible-count"></span></span><span>Sorted by match score ↓</span></div>
+      <div id="list" class="job-list" aria-live="polite"><div class="loading">Finding your opportunities...</div></div>
+      <footer>CareerMatch <span>•</span> A deterministic recommendation demo built for university students <span>•</span> Fictional listings for coursework</footer>
+    </div>
+  </main>
+</div>
+<dialog id="job-dialog" aria-labelledby="detail-title"><button id="close-details" class="clear-btn">Close details ✕</button><div id="job-detail"></div></dialog>
+<script src="/static/app.js" defer></script>
+</body></html>
